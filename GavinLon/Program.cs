@@ -3,6 +3,7 @@ using GavinLon;
 using System.Collections;
 using System.Diagnostics.CodeAnalysis;
 
+Console.WriteLine("Ucze się githuba! ");
 //List<Employee> employeeList = Data.GetEmployees();
 //List<Department> departmentList = Data.GetDepartments();
 
